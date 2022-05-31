@@ -1,2 +1,3 @@
 # tn-zavarzin-oleg-1
-Учебный репозиторий студента Заварзина Олега 1 модуль
+*Студент: Заварзин Олег(https://t.me/th0rns)
+*Наставник: Tati Nabokova (https://t.me/shookli)
